@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+python-multipart
+boto3
+psycopg[binary]
